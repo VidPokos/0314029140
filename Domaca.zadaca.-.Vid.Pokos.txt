@@ -1,0 +1,199 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[croatian]{babel}
+\title{\Huge Domaća zadaća}
+\author{\Large Vid Pokos}
+\date{\Large \today}
+\begin{document}
+\maketitle
+\newpage
+
+\section{Komponente Računala}
+
+\subsection{Procesor}
+\begin{itemize}
+\item Model: AMD Ryzen 9 5950X
+\item Broj jezgri: 16
+\item Brzina: 3.4 GHz (bazna), 4.9 GHz (boost)
+\item Obrazloženje: Procesor AMD Ryzen 9 5950X sam odabrao zbog odličnih performansi te zbog rada na visokim radnim frekvencija čineći ga dobrim za multitaksing i za obradu videoigara.
+\item Cijena: 365.00 EUR
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{ryzen-9-5950x-16c-32t-slika-157159502.jpg} 
+\caption{Procesor}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Grafička Kartica}
+\begin{itemize}
+\item Model: NVIDIA GeForce RTX 3080 
+\item Vrsta memorije: GDDR6X
+\item Kapacitet memorije: 10 GB
+\item Obrazloženje: Grafička kartica NVIDIA GeForce RTX 3080 sam odabrao zbog visokih grafičkih performansi,podršku za Ray tracing i DLSS te je odličan izbor za igranje zahtjevnih igara.
+\item Cijena: 500.00 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.328\textwidth]{grafička.jpg}  
+\caption{Grafička kartica}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\newpage
+\subsection{Radna Memorija (RAM)}
+\begin{itemize}
+\item Kapacitet: 64 GB
+\item Brzina: 4000 MHz
+\item Obrazloženje: Odabrao sam 64GB RAM-a ako ću raditi sa velikim aplikacijama ili ako ću igrati zahtjevne igre
+\item Cijena: 150.00 EUR 
+\end{itemize}
+
+\subsection{SSD memorija}
+\begin{itemize}
+\item Model: WD Black SN850 NVMe SSD 2 TB
+\item Tip: NVMe M.2
+\item Obrazloženje: Veliki kapacitet brzog SSD-a za pohranu i brzo učitavanje video materijala.
+\item Cijena: 319.27 EUR
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{memorijagraficka.jpg}  
+\caption{SSD memorija}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\newpage
+\subsection{Matična Ploča}
+\begin{itemize}
+\item Model: MSI MPG B550 Gaming Edge WiFi
+\item Obrazloženje: Matična ploča MSI MPG B550 Gaming Edge WiFi nudi podršku za AMD Ryzen procesore, integriranu Wi-Fi funkcionalnost te kvalitetan zvučni podsustav
+\item Cijena: 180.00 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{matična ploča.jpg}  
+\caption{Matična ploča}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Napajanje}
+\begin{itemize}
+\item Model: EVGA SuperNOVA 850 G5
+\item Obrazloženje: Odabrao sam EVGA SuperNOVA 850 G5 napajanje zbog učinkovitosti i snage
+\item Cijena: 150.00 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{napajanje.jpg}  
+\caption{Napajanje}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Kućište}
+\begin{itemize}
+\item Model: NZXT H710i
+\item Obrazloženje: NZXT H710i sam odabrao kako bi stale sve komponente, te kako bi se namjestile
+\item Cijena: 118.60 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{kućište.jpg}  
+\caption{Kućište}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Hladnjak}
+\begin{itemize}
+\item Model: NZXT Kraken Z73
+\item Obrazloženje: Efikasno hlađenje procesora s LCD zaslonom za praćenje temperatura.
+\item Cijena: 300.00 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{hlađenje1.jpg}  
+\caption{Hlađenje}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\newpage
+\section{Radna periferija}
+\subsection{Monitor}
+\begin{itemize}
+\item Model: SAMSUNG 27 inch T35F Series HD
+\item Obrazloženje: Zbog velike rezolucije i kompaktiblnosti sa računalom
+\item Cijena: 90.00 EUR
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{monitor.jpg}  
+\caption{Monitor}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Miš}
+\begin{itemize}
+\item Model: ASSERO Gaming mouse
+\item Obrazloženje: Uzeo sam ga jer ima gumbove sa strane i jer mi je potreban za lakši rad
+\item Cijena: 6.90 EUR
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.4\textwidth]{miš.jpeg}  
+\caption{Miš}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Tipkovnica}
+\begin{itemize}
+\item Model: WHITE SHARK GK-1925 Spartan
+\item Obrazloženje: Uzeo sam tipkovnicu za lakši rad te kako bi mogao upisivati riječi
+\item Cijena: 40.00 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.5\textwidth]{tipkovnica.jpg}  
+\caption{Tipkovnica}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+
+\subsection{Slušalice}
+\begin{itemize}
+\item Model: BERIBES Upgraded Hybrid Active Noise Cancelling Headphones
+\item Obrazloženje: Uzeo sam te slušalice jer su jeftine i bežične.
+\item Cijena: 24.50 EUR 
+\begin{figure}[h]
+\centering  
+\includegraphics[width=0.3\textwidth]{headphones.jpg}  
+\caption{Slušalice}   
+\label{figure:slika}
+\end{figure}
+\end{itemize}
+\newpage
+\section{Ukupna cijena računala }
+Ukupna cijena računala iznosi 2244.27 EUR.
+\section{Linkovi}
+\subsection{Procesor}
+\url{http://www.amazon.com/AMD-Ryzen-5950X-32-Thread-Processor/dp/B0815Y8J9N/ref=sr_1_1?crid=209AVGKY86LZO&keywords=AMD+Ryzen+9+5950X&qid=1705250139&sprefix=amd+ryzen+9+5950x%2Caps%2C282&sr=8-1}
+\subsection{Grafička kartica}
+\url{https://www.amazon.com/ZOTAC-Graphics-HoloBlack-IceStorm-ZT-A30810F-10P/dp/B08V1ZWGVR/ref=sr_1_1?crid=2WYV1V3X2H05W&keywords=NVIDIA+GeForce+RTX+3080&qid=1705250397&sprefix=nvidia+geforce+rtx+3080%2Caps%2C180&sr=8-1}
+\subsection{Matična ploča}
+\url{https://www.amazon.com/MSI-MPG-B550-Motherboard-Processors/dp/B089CQFHHZ/ref=sr_1_1?crid=2ZSH8QSQOXWTL&keywords=MSI+MPG+B550+Gaming+Edge+WiFi&qid=1705250747&sprefix=msi+mpg+b550+gaming+edge+wifi%2Caps%2C156&sr=8-1}
+\subsection{Napajanje}
+\url{https://www.amazon.com/EVGA-Supernova-Modular-Warranty-220-G7-0850-X1/dp/B0B2J88HTZ/ref=sr_1_2?crid=24GT30TE37E4O&keywords=evga%2Bsupernova%2B850%2Bg5&qid=1705250844&sprefix=EVGA%2BSuperNOVA%2B850%2BG5%2Caps%2C166&sr=8-2&th=1}
+\subsection{Kućište}
+\url{https://www.amazon.com/NZXT-H710-Quick-Release-Water-Cooling-Construction/dp/B07T81N2H8/ref=sr_1_3?crid=3PC43WVBCDCL6&keywords=NZXT%2BH710i&qid=1705251507&sprefix=nzxt%2Bh710i%2Caps%2C260&sr=8-3&th=1}
+\subsection{Hladnjak}
+\url{https://www.amazon.com/NZXT-H710-Quick-Release-Water-Cooling-Construction/dp/B07T81N2H8/ref=sr_1_3?crid=3PC43WVBCDCL6&keywords=NZXT%2BH710i&qid=1705251507&sprefix=nzxt%2Bh710i%2Caps%2C260&sr=8-3&th=1}
+\subsection{Monitor}
+\url{https://www.amazon.com/SAMSUNG-27-inch-Border-Less-FreeSync-LF27T350FHNXZA/dp/B08FF3JQ28/ref=sr_1_1?crid=3KM6A4YEIB1FD&keywords=SAMSUNG%2B27%2Binch%2BT35F%2BSeries%2BHD&qid=1705251665&sprefix=samsung%2B27%2Binch%2Bt35f%2Bseries%2Bhd%2Caps%2C158&sr=8-1&th=1}
+\subsection{Miš}
+\url{https://www.nabava.net/gaming-misevi/speed-link-assero-gaming-mis-cijena-zicni-6400-dpi-crni-56374931}
+\subsection{Tipkovnica}
+\url{https://www.instar-informatika.hr/tipkovnica-white-shark-gk-1925-spartan-zicana-gaming-mehanicka-blu/196125/product/}
+\subsection{Slušalice}
+\url{https://www.amazon.com/BERIBES-Bluetooth-Headphones-Microphone-Lightweight/dp/B09LYF2ST7/ref=sr_1_1_sspa?crid=19T41ASU993JE&keywords=BERIBES%2BUpgraded%2BHybrid%2BActive%2BNoise%2BCancelling%2BHeadphones&qid=1705251956&sprefix=beribes%2Bupgraded%2Bhybrid%2Bactive%2Bnoise%2Bcancelling%2Bheadphones%2Caps%2C162&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1}
+
+\end{document}
